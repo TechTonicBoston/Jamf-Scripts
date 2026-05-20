@@ -1,0 +1,11 @@
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# members of the team specified below will be requested for
+# review when someone opens a pull request and required before
+# merging.
+# More granularity is possible. For more information, reference
+# documentation here:
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# * @your-org-here/approver-team-here
+# scripts/* @your-org-here/approver-team-here
